@@ -1,0 +1,22 @@
+.btn-icon {
+   display: inline-block;
+   padding-inline-start: 0.625rem;
+   padding-inline-end: 0.625rem;
+   padding-block-start: 0.625rem;
+   padding-block-end: 0.625rem;
+   inline-size: 2.75rem;
+   block-size: 2.75rem;
+   background-color: var(--colorWhite);
+   color: var(--colorPurple);
+   font-size: 1.5rem;
+   text-transform: uppercase;
+   border-radius: var(--btnRounded);
+   border: var(--btnBorder);
+   text-decoration: none;
+}
+
+.btn-icon > i {
+   position: relative;
+   top: -2px;
+   left: -2px;
+}

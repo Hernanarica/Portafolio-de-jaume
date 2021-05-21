@@ -20,4 +20,11 @@
    --body2: 400 0.875rem/1.415625rem var(--fontBase);
    --button: 700 0.875rem/1.415625rem var(--fontBase);
    --caption: 200 0.75rem/1.21375rem var(--fontBase);
+
+   /* Components */
+   /* --button-- */
+   --btnPaddingInline: 1.5rem;
+   --btnPaddingBlock: 0.8125rem;
+   --btnRounded: 0.25rem;
+   --btnBorder: 2px solid var(--colorPurple);
 }

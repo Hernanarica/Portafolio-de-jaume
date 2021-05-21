@@ -11,4 +11,5 @@ body {
    min-block-size: 100vh;
    background: var(--gradient);
    font-family: var(--fontBase);
+   color: var(--colorPurple);
 }
